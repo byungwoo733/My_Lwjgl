@@ -20,3 +20,5 @@ http://wiki.lwjgl.org/index.html
 - Create Project(Java Project)  <  create library Folder < drag LWJGL libraries (all to lwjgl-xxhash-natives-windows includes lwjgl.jar) 
                                                        
 - src < Project <Right Click> < Properties < Libraries < Select & Add your libraries 
+
+* it has to have library folder your project package folder
