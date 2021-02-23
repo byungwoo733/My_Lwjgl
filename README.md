@@ -21,4 +21,4 @@ http://wiki.lwjgl.org/index.html
                                                        
 - src < Project <Right Click> < Properties < Libraries < Select & Add your libraries 
 
-* it has to have library folder your project package folder
+[Importance] it has to have library folder in your project package folder
