@@ -12,6 +12,9 @@ LWJGL Wiki:
 
 http://wiki.lwjgl.org/index.html
 
+Gitbook Document
+
+https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/
 
 ==============================
 
