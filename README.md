@@ -22,7 +22,7 @@ https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/
 
 - Create Project(Java Project)  <  create library Folder < drag LWJGL libraries (all to lwjgl-xxhash-natives-windows includes lwjgl.jar) 
                                                        
-- src < Project <Right Click> < Properties < Libraries < Select & Add your libraries 
+- Project <Right Click> < Properties < Java Build Path < Libraries < Select & Add your libraries 
 
 [Importance] it has to have library folder in your project package folder
 
