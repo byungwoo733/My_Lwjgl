@@ -16,6 +16,10 @@ Gitbook Document
 
 https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/
 
+JBullet - Java port of Bullet Physics Library
+
+http://jbullet.advel.cz/
+
 ==============================
 
 [How to setting LWJGL]
